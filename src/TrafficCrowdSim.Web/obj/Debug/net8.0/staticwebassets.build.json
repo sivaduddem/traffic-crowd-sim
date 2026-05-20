@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "td7rLVF/nWieRaUhJEmhu8TT80HteDKT+0GtjKtjCfw=",
+  "Source": "TrafficCrowdSim.Web",
+  "BasePath": "_content/TrafficCrowdSim.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TrafficCrowdSim.Web\\wwwroot",
+      "Source": "TrafficCrowdSim.Web",
+      "ContentRoot": "C:\\Users\\sivad\\OneDrive\\Desktop\\traffic-crowd-sim\\traffic-crowd-sim\\src\\TrafficCrowdSim.Web\\wwwroot\\",
+      "BasePath": "_content/TrafficCrowdSim.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\sivad\\OneDrive\\Desktop\\traffic-crowd-sim\\traffic-crowd-sim\\src\\TrafficCrowdSim.Web\\wwwroot\\app.js",
+      "SourceId": "TrafficCrowdSim.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sivad\\OneDrive\\Desktop\\traffic-crowd-sim\\traffic-crowd-sim\\src\\TrafficCrowdSim.Web\\wwwroot\\",
+      "BasePath": "_content/TrafficCrowdSim.Web",
+      "RelativePath": "app.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.js"
+    },
+    {
+      "Identity": "C:\\Users\\sivad\\OneDrive\\Desktop\\traffic-crowd-sim\\traffic-crowd-sim\\src\\TrafficCrowdSim.Web\\wwwroot\\index.html",
+      "SourceId": "TrafficCrowdSim.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sivad\\OneDrive\\Desktop\\traffic-crowd-sim\\traffic-crowd-sim\\src\\TrafficCrowdSim.Web\\wwwroot\\",
+      "BasePath": "_content/TrafficCrowdSim.Web",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\sivad\\OneDrive\\Desktop\\traffic-crowd-sim\\traffic-crowd-sim\\src\\TrafficCrowdSim.Web\\wwwroot\\styles.css",
+      "SourceId": "TrafficCrowdSim.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sivad\\OneDrive\\Desktop\\traffic-crowd-sim\\traffic-crowd-sim\\src\\TrafficCrowdSim.Web\\wwwroot\\",
+      "BasePath": "_content/TrafficCrowdSim.Web",
+      "RelativePath": "styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    }
+  ]
+}

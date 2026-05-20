@@ -1,0 +1,104 @@
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: "Segoe UI", system-ui, sans-serif;
+  background: #0f1419;
+  color: #e7ecf3;
+}
+
+header {
+  padding: 1rem 1.5rem 0.25rem;
+}
+
+h1 {
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.subtitle {
+  margin: 0.35rem 0 0;
+  color: #8b9cb3;
+  font-size: 0.9rem;
+}
+
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1.25rem;
+  align-items: end;
+  padding: 0.75rem 1.5rem 1rem;
+}
+
+label {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  font-size: 0.75rem;
+  color: #8b9cb3;
+}
+
+input, select, button {
+  font: inherit;
+  padding: 0.4rem 0.6rem;
+  border-radius: 6px;
+  border: 1px solid #2a3544;
+  background: #1a2332;
+  color: #e7ecf3;
+}
+
+button {
+  cursor: pointer;
+  background: #2d6cdf;
+  border-color: #2d6cdf;
+  font-weight: 600;
+}
+
+button:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+button#pauseBtn {
+  background: #3a4658;
+  border-color: #3a4658;
+}
+
+.stats {
+  padding: 0 1.5rem 0.75rem;
+  font-size: 0.9rem;
+  color: #b8c5d9;
+}
+
+.canvas-wrap {
+  padding: 0 1.5rem;
+}
+
+canvas {
+  width: 100%;
+  max-width: 960px;
+  height: auto;
+  display: block;
+  border-radius: 10px;
+  background: #121a24;
+  border: 1px solid #243044;
+}
+
+.timeline {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem 1.5rem 1.5rem;
+}
+
+#scrubber {
+  flex: 1;
+  max-width: 960px;
+}
+
+#frameLabel {
+  min-width: 5rem;
+  font-variant-numeric: tabular-nums;
+  color: #8b9cb3;
+}

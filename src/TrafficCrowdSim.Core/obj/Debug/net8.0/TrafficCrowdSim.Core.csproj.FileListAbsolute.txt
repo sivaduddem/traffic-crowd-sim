@@ -1,0 +1,12 @@
+C:\Users\sivad\OneDrive\Desktop\traffic-crowd-sim\traffic-crowd-sim\src\TrafficCrowdSim.Core\bin\Debug\net8.0\TrafficCrowdSim.Core.deps.json
+C:\Users\sivad\OneDrive\Desktop\traffic-crowd-sim\traffic-crowd-sim\src\TrafficCrowdSim.Core\bin\Debug\net8.0\TrafficCrowdSim.Core.dll
+C:\Users\sivad\OneDrive\Desktop\traffic-crowd-sim\traffic-crowd-sim\src\TrafficCrowdSim.Core\bin\Debug\net8.0\TrafficCrowdSim.Core.pdb
+C:\Users\sivad\OneDrive\Desktop\traffic-crowd-sim\traffic-crowd-sim\src\TrafficCrowdSim.Core\obj\Debug\net8.0\TrafficCrowdSim.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sivad\OneDrive\Desktop\traffic-crowd-sim\traffic-crowd-sim\src\TrafficCrowdSim.Core\obj\Debug\net8.0\TrafficCrowdSim.Core.AssemblyInfoInputs.cache
+C:\Users\sivad\OneDrive\Desktop\traffic-crowd-sim\traffic-crowd-sim\src\TrafficCrowdSim.Core\obj\Debug\net8.0\TrafficCrowdSim.Core.AssemblyInfo.cs
+C:\Users\sivad\OneDrive\Desktop\traffic-crowd-sim\traffic-crowd-sim\src\TrafficCrowdSim.Core\obj\Debug\net8.0\TrafficCrowdSim.Core.csproj.CoreCompileInputs.cache
+C:\Users\sivad\OneDrive\Desktop\traffic-crowd-sim\traffic-crowd-sim\src\TrafficCrowdSim.Core\obj\Debug\net8.0\TrafficCrowdSim.Core.sourcelink.json
+C:\Users\sivad\OneDrive\Desktop\traffic-crowd-sim\traffic-crowd-sim\src\TrafficCrowdSim.Core\obj\Debug\net8.0\TrafficCrowdSim.Core.dll
+C:\Users\sivad\OneDrive\Desktop\traffic-crowd-sim\traffic-crowd-sim\src\TrafficCrowdSim.Core\obj\Debug\net8.0\refint\TrafficCrowdSim.Core.dll
+C:\Users\sivad\OneDrive\Desktop\traffic-crowd-sim\traffic-crowd-sim\src\TrafficCrowdSim.Core\obj\Debug\net8.0\TrafficCrowdSim.Core.pdb
+C:\Users\sivad\OneDrive\Desktop\traffic-crowd-sim\traffic-crowd-sim\src\TrafficCrowdSim.Core\obj\Debug\net8.0\ref\TrafficCrowdSim.Core.dll

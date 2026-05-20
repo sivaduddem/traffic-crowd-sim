@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Traffic & Crowd Simulator</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Traffic &amp; Crowd Simulator</h1>
+    <p class="subtitle">Agents on a shared road network — edge color shows congestion</p>
+  </header>
+
+  <section class="controls">
+    <label>
+      Policy
+      <select id="policy">
+        <option value="adaptive">Adaptive</option>
+        <option value="baseline">Baseline</option>
+      </select>
+    </label>
+    <label>
+      Agents
+      <input id="agents" type="number" min="10" max="400" value="120" />
+    </label>
+    <label>
+      Timesteps
+      <input id="timesteps" type="number" min="30" max="400" value="180" />
+    </label>
+    <label>
+      Capacity
+      <input id="capacity" type="number" min="1" max="8" value="3" />
+    </label>
+    <button id="runBtn" type="button">Run simulation</button>
+    <button id="playBtn" type="button" disabled>Play</button>
+    <button id="pauseBtn" type="button" disabled>Pause</button>
+  </section>
+
+  <section class="stats" id="stats">Press “Run simulation” to start.</section>
+
+  <div class="canvas-wrap">
+    <canvas id="canvas" width="960" height="640"></canvas>
+  </div>
+
+  <section class="timeline">
+    <input id="scrubber" type="range" min="0" max="0" value="0" disabled />
+    <span id="frameLabel">t = 0</span>
+  </section>
+
+  <script src="app.js"></script>
+</body>
+</html>

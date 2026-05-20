@@ -1,0 +1,7 @@
+C:\Users\sivad\OneDrive\Desktop\traffic-crowd-sim\traffic-crowd-sim\tests\TrafficCrowdSim.Tests\bin\Release\net8.0\.msCoverageSourceRootsMapping_TrafficCrowdSim.Tests
+C:\Users\sivad\OneDrive\Desktop\traffic-crowd-sim\traffic-crowd-sim\tests\TrafficCrowdSim.Tests\obj\Release\net8.0\TrafficCrowdSim.Tests.csproj.AssemblyReference.cache
+C:\Users\sivad\OneDrive\Desktop\traffic-crowd-sim\traffic-crowd-sim\tests\TrafficCrowdSim.Tests\obj\Release\net8.0\TrafficCrowdSim.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sivad\OneDrive\Desktop\traffic-crowd-sim\traffic-crowd-sim\tests\TrafficCrowdSim.Tests\obj\Release\net8.0\TrafficCrowdSim.Tests.AssemblyInfoInputs.cache
+C:\Users\sivad\OneDrive\Desktop\traffic-crowd-sim\traffic-crowd-sim\tests\TrafficCrowdSim.Tests\obj\Release\net8.0\TrafficCrowdSim.Tests.AssemblyInfo.cs
+C:\Users\sivad\OneDrive\Desktop\traffic-crowd-sim\traffic-crowd-sim\tests\TrafficCrowdSim.Tests\obj\Release\net8.0\TrafficCrowdSim.Tests.csproj.CoreCompileInputs.cache
+C:\Users\sivad\OneDrive\Desktop\traffic-crowd-sim\traffic-crowd-sim\tests\TrafficCrowdSim.Tests\obj\Release\net8.0\TrafficCrowdSim.Tests.sourcelink.json
